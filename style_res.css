@@ -1,0 +1,64 @@
+div {
+	padding: 10px;
+	margin: 10px;
+}
+
+p {
+	margin-left: 200px;
+	
+}
+.resume {
+	background-color: #C0E0EB;
+	max-width: 1050px;
+	height: 1000px;
+	
+}
+
+.personal_info {
+		max-width: 1000px;
+		border: 1px solid;
+		}
+	
+.foto {
+	float: left;
+	max-height: 175px;
+}
+
+.name {
+	font-weight: bold;
+	font-size: 125%;
+	
+}
+
+.study {
+	border: 1px solid;
+	float: left;
+	max-width: 490px;
+	margin-right: 0px;
+}
+
+.work {
+	border: 1px solid;
+	float: left;
+	max-width: 490px;
+	margin-left: 0px;
+
+}
+.clearer {
+	clear: both;
+	display: block;
+	font-size: 0;
+	line-height: 0;
+}
+
+.personal_qualities {
+	border: 1px solid;
+	float: left;
+	max-width: 1000px;
+	
+}
+
+
+
+
+
